@@ -98,5 +98,11 @@ h5{
     font-size: 35px;
     margin-top: 5px;
     margin-left: 4px;
+}
+.line{
+    height: 0px;
+    border: 1px solid #D1D1D1;
+    margin-top: 15px;
+    margin-bottom: 15px;
 
 }

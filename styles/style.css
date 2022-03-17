@@ -1,0 +1,85 @@
+body{
+    background-color: #F3F1FF;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;  
+}
+
+main, .card-section{
+    max-width: 900px;
+}
+.blog-img img{
+    width: 177px;
+    height: 117px;
+    margin: 8px 15px 8px 0;
+    
+}
+.by{
+    color: gray;
+}
+.writer{
+    color:#562EFF ;
+}
+h5{
+    font-weight: 600;
+    padding: 10px;
+}
+.card img{
+   padding: 10px;
+}
+.last-section{
+    margin-bottom: 27px;
+}
+.card{
+    box-shadow: 0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05);
+    border: none;
+    border-top: none;
+    border-radius: 20px;
+}
+.calender{
+    width: 12px;
+    height: 11px;
+    
+}
+.card-1{
+    padding: 10x;
+}
+
+.first-bar{
+    width: 900px;
+}
+.tp{
+    padding-top: 25px !important;
+}
+.top{
+    padding-bottom: 15px;
+}
+.card-body {
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+.card-text{
+    margin-left: 12px;
+}
+.card-footer{
+    background-color: transparent;
+    border-top: none;
+}
+.cardImg img, .clock img{
+    padding: 0;
+}
+.clock {
+    background-color: 
+    #FFE4E8;
+    border-radius: 20px;
+    padding: 1px;
+    color: #FF4A60;
+
+}
+.rateing {
+    color: #A2A2A2;
+}
